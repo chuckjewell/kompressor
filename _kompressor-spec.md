@@ -12,9 +12,9 @@
    3.4 [Test Management System](./doc/3_4_Test_Management_System.md)
    3.5 [Version Control Integration](./doc/3_5_Version_Control_Integration.md)
 4. [User Interface](./doc/4_User_Interface.md)
-5. [Performance Considerations](./docs/5_Performance_Considerations.md)
-6. [Security Considerations](./docs/6_Security_Considerations.md)
-7. [Future Enhancements](./docs/7_Future_Enhancements.md)
+5. [Performance Considerations](./doc/5_Performance_Considerations.md)
+6. [Security Considerations](./doc/6_Security_Considerations.md)
+7. [Future Enhancements](./doc/7_Future_Enhancements.md)
 8. [Conclusion](#8-conclusion)
 9. [Implementation Priorities and Next Steps](#9-implementation-priorities-and-next-steps)
 
