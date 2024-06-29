@@ -33,21 +33,25 @@ python kompressor.py [-h] [-e EXTENSIONS [EXTENSIONS ...]] [-d DIRECTORY] [-o OU
 ### Examples
 
 1. Default usage (Python files and all READMEs from all subfolders in current directory, output to kompressor_output.txt):
+
    ```
    python kompressor.py
    ```
 
 2. Specify a single extension:
+
    ```
    python kompressor.py -e py
    ```
 
 3. Specify multiple extensions:
+
    ```
    python kompressor.py -e py js css
    ```
 
 4. Specify directory and output file:
+
    ```
    python kompressor.py -d /path/to/project -o project_overview.txt
    ```
@@ -66,14 +70,6 @@ Kompressor generates a single text file containing:
 3. All code files with the specified extensions
 
 Each file in the output is clearly labeled with its relative path in the project structure.
-
-## Error Handling
-
-Kompressor includes comprehensive error handling:
-
-- Errors reading individual files are reported, but do not stop the script's execution
-- Errors writing to the output file will cause the script to exit with a non-zero status code
-- Unexpected errors are caught and reported, causing the script to exit with a non-zero status code
 
 ## License
 
