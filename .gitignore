@@ -168,4 +168,4 @@ cython_debug/
 .vscode/
 
 # Kompressor specific
-kompressor_output/
+kompressor_output.txt
