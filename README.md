@@ -178,14 +178,7 @@ Contributions to Kompressor are welcome! Please feel free to submit a pull reque
    cd kompressor
    ```
 
-3. **Create a Virtual Environment (Optional)**:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
-   ```
-
-4. **Run the Script**:
+3. **Run the Script**:
 
    ```bash
    python kompressor.py
