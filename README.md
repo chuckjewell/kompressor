@@ -194,28 +194,3 @@ Contributions to Kompressor are welcome! Please feel free to submit a pull reque
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## **Support**
-
-If you encounter any problems or have any questions about Kompressor, please open an issue in the GitHub repository.
-
-## **Acknowledgments**
-
-- Thanks to all contributors and users who have provided feedback and suggestions.
-- Inspired by the need to easily compile project overviews for code analysis and reviews.
-
----
-
-**By updating the `README.md`, we've ensured that all important details are covered, including:**
-
-- **Detailed descriptions of features and how to use them.**
-- **Comprehensive usage examples demonstrating different scenarios.**
-- **Clear explanations of how presets and customizations work together.**
-- **Notes on default behaviors and how to modify them.**
-- **Information on contributing, support, and license.**
-
-This should provide users with all the necessary information to effectively use the `kompressor.py` script and understand its capabilities.
-
----
-
-**Feel free to let me know if there's anything else you'd like to add or modify!**
